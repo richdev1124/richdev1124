@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="header" align="center">
-  <div style="width:480px"><iframe allow="fullscreen" frameBorder="0" height="853" src="https://giphy.com/embed/f5qObz8IUzxjz9JPWO/video" width="480"></iframe></div>
+  <video width="320" height="240" autoplay>
+    <source src="[movie.mp4](https://giphy.com/embed/f5qObz8IUzxjz9JPWO/video)" type="video/mp4">
+  </video>
 </div>
