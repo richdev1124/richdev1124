@@ -15,7 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="header" align="center">
-  <video width="320" height="240" autoplay>
-    <source src="[movie.mp4](https://giphy.com/embed/f5qObz8IUzxjz9JPWO/video)" type="video/mp4">
-  </video>
+  <iframe src="https://giphy.com/embed/Xgg0PkTao7Yy8HOElW" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/coffee-drink-freelancer-Xgg0PkTao7Yy8HOElW">via GIPHY</a></p>
 </div>
